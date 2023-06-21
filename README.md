@@ -1,2 +1,6 @@
 # Amazon-clone
-https://amazon-nu-two.vercel.app/
+
+Created a clone of Amazon.com website :
+
+[Live Preview](https://amazon-nu-two.vercel.app/)
+
