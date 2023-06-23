@@ -2,5 +2,5 @@
 
 Created a clone of Amazon.com website :
 
-[Live Preview](https://amazon-nu-two.vercel.app/)
+[Live Preview](https://amazon-basic.vercel.app/)
 
