@@ -95,7 +95,7 @@
 }
 
 .nav-search:hover{
-   border:1.5px solid orangee;
+   border:1.5px solid orange;
     border-radius: 2px;
 }
 /** box 4 **/
@@ -115,6 +115,7 @@ span{
 }
 
 .nav-cart{
+    padding: 8px;
     font-size: 0.85rem;
     font-weight: 700;
 }
@@ -131,8 +132,18 @@ span{
     align-items: center;
 }
 
+.panel-all{
+    padding: 4px;
+}
+
+.panel-all:hover{
+    border:1.5px solid white;
+    border-radius: 2px;
+}
+
 .panel-ops p {
     display: inline;
+    padding:7px;
     margin-left: 10px;
 }
 
@@ -149,9 +160,10 @@ span{
 .panel-deals{
     font-size: 0.9rem;
     font-weight: 700;
+    padding: 4px;
 }
 
-.panel-deals :hover{
+.panel-deals:hover{
     border:1.5px solid white;
     border-radius: 2px;
 }
