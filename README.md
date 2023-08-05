@@ -49,4 +49,3 @@ The following technologies were used to build this Discord clone:
 ## Live Link
 https://amazon-clone-zeta-six.vercel.app/
 
-
