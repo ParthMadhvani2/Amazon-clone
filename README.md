@@ -2,7 +2,7 @@
 
 This is an Amazon clone built using HTML, JavaScript. It provides a similar user interface and functionality to the popular e-commerce platform Amazon.com.
 
-[Live Preview](https://amazon-clone-zeta-six.vercel.app/)
+[Live Preview](https://parthmadhvani2.github.io/Amazon-clone/)
 
 ## Features
 
@@ -47,5 +47,4 @@ The following technologies were used to build this Discord clone:
     CSS: Cascading Style Sheets for styling the user interface.
 
 ## Live Link
-https://amazon-clone-zeta-six.vercel.app/
-
+https://parthmadhvani2.github.io/Amazon-clone/
